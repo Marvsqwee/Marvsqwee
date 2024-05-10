@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marvy! a student, who has a big dream to be a successful technologist in future. 
+- 👋 Hi, I’m Marvy! a skilled individual, who has a big dream to be a successful technologist in future. 
 - 👀 I’m interested in Graphics, UI/UX, AppDev, GameDev, SQL & More..
 - 🌱 I’m currently learning app development & game development.
 - 💞️ I’m looking to collaborate on new learning opportunity projects that can help me expose to real-life challenges.
